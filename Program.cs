@@ -1,20 +1,24 @@
-﻿//  int age = 15;
-//  if (age >= 21)
-//  {
-//      System.Console.WriteLine("Доступ разрешён");
-//  }
-//  System.Console.WriteLine("Программа продолжает работу");
+﻿// int vozrast1 = 15;
 
-//  int age = 15;
-//  if (age >= 18)
-//  {
-//      System.Console.WriteLine("Доступ разрешен");
-//  } else
-//  {
-//      System.Console.WriteLine("Доступ запрещен");
-//      System.Console.WriteLine($"До совершеннолетия осталось {18 - age} лет.");
-//  }
+// if (vozrast1 >= 21)
+// {
+//     System.Console.WriteLine("Доступ разрешён");
+// }
+// System.Console.WriteLine("Программа продолжает работу");
 
+// System.Console.WriteLine();
+
+// int vozrast2 = 15;
+
+// if (vozrast2 >= 18)
+// {
+//     System.Console.WriteLine("Доступ разрешен");
+// }
+// else
+// {
+//     System.Console.WriteLine("Доступ запрещен");
+//     System.Console.WriteLine($"До совершеннолетия осталось {18 - vozrast2} лет.");
+// }
  
 
 
